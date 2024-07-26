@@ -1,3 +1,5 @@
+240716 ~ 240719 딥러닝 이미지 프로젝트
+
 데이터 수집 : 캐글 분리수거 데이터
 https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2?select=trash
 
